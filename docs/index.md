@@ -5,6 +5,8 @@ title: Katie Larson
 # Katie Larson
 blah blah blah
 
+I am super smart and you should hire me.
+
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
