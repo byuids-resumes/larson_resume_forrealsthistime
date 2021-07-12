@@ -3,7 +3,7 @@ layout: cv
 title: Katie Larson
 ---
 # Katie Larson
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+blah blah blah
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
