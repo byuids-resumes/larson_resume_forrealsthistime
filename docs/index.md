@@ -3,9 +3,6 @@ layout: cv
 title: Katie Larson
 ---
 # Katie Larson
-blah blah blah
-
-I am super smart and you should hire me.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -18,12 +15,7 @@ I am super smart and you should hire me.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2015`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
